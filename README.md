@@ -1,5 +1,7 @@
 ### Halo, saya Riel (`andrian219`)
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Every+expert+was+once+a+beginner.)
+
 Saat ini saya sedang mempelajari pemrograman dan mengembangkan aplikasi Android serta proyek web sederhana.  
 *Hello, I am Riel. I am currently learning programming and developing Android applications along with simple web projects.*
 
@@ -30,3 +32,5 @@ Saat ini saya sedang mempelajari pemrograman dan mengembangkan aplikasi Android 
 ---
 
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=andrian219&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Most Used Languages](most-used-languages.svg)
