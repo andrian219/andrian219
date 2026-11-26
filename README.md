@@ -1,4 +1,4 @@
-[![Bahasa Indonesia](https://img.shields.io/badge/Bahasa_Indonesia-D62828?style=flat-square)](README.md) [![English](https://img.shields.io/badge/English-2563EB?style=flat-square)](README.en.md)
+<p align="center"><a href="README.md">Bahasa Indonesia</a> | <a href="README.en.md">English</a></p>
 
 ### Halo, saya Riel (`andrian219`)
 
