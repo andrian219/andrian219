@@ -1,19 +1,20 @@
+[![Bahasa Indonesia](https://img.shields.io/badge/Bahasa_Indonesia-D62828?style=flat-square)](README.md) [![English](https://img.shields.io/badge/English-2563EB?style=flat-square)](README.en.md)
+
 ### Halo, saya Riel (`andrian219`)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Every+expert+was+once+a+beginner.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Every+expert+was+once+a+beginner)
 
-Saat ini saya sedang mempelajari pemrograman dan mengembangkan aplikasi Android serta proyek web sederhana.  
-*Hello, I am Riel. I am currently learning programming and developing Android applications along with simple web projects.*
-
----
-
-**Proyek / Projects:**
-- **[RielTL Web](https://rieltl.pages.dev)** — Aplikasi penerjemah komik dan manga ke bahasa Indonesia (*Comic and manga translator application into Indonesian*).
-- **RielTL Android** — Versi aplikasi Android native dari RielTL (*Native Android application version of RielTL*).
+Saat ini saya sedang mempelajari pemrograman dan mengembangkan aplikasi Android serta proyek web sederhana.
 
 ---
 
-### Teknologi yang Dipelajari | Currently Learning
+**Proyek:**
+- **[RielTL Web](https://rieltl.pages.dev)** — Aplikasi penerjemah komik dan manga ke bahasa Indonesia.
+- **RielTL Android** — Versi aplikasi Android native dari RielTL.
+
+---
+
+### Teknologi yang Dipelajari
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
