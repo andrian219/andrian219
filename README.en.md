@@ -4,13 +4,14 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Every+expert+was+once+a+beginner)
 
-I am currently learning programming and developing Android applications along with simple web projects.
+<p align="justify">I am currently learning programming and developing Android applications along with simple web projects.</p>
 
 ---
 
 **Projects:**
-- **[RielTL Web](https://rieltl.pages.dev)** — Comic and manga translator application into Indonesian.
+- **[PDFCrate](https://github.com/andrian219/PDFCrate)** — Free PDF tools that run entirely in your browser.
 - **RielTL Android** — Native Android application version of RielTL.
+- **[SiapUjian](https://github.com/andrian219/SiapUjian)** — Free online school exam application for teachers.
 
 ---
 
