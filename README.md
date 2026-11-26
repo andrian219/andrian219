@@ -4,13 +4,14 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Every+expert+was+once+a+beginner)
 
-Saat ini saya sedang mempelajari pemrograman dan mengembangkan aplikasi Android serta proyek web sederhana.
+<p align="justify">Saat ini saya sedang mempelajari pemrograman dan mengembangkan aplikasi Android serta proyek web sederhana.</p>
 
 ---
 
 **Proyek:**
-- **[RielTL Web](https://rieltl.pages.dev)** — Aplikasi penerjemah komik dan manga ke bahasa Indonesia.
+- **[PDFCrate](https://github.com/andrian219/PDFCrate)** — Alat PDF gratis yang berjalan sepenuhnya di peramban.
 - **RielTL Android** — Versi aplikasi Android native dari RielTL.
+- **[SiapUjian](https://github.com/andrian219/SiapUjian)** — Aplikasi ujian sekolah online gratis untuk guru.
 
 ---
 
