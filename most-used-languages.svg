@@ -1,16 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="140" viewBox="0 0 495 140">
-  <rect width="495" height="140" rx="8" fill="#1a1b27"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="178" viewBox="0 0 495 178">
+  <rect width="495" height="178" rx="8" fill="#1a1b27"/>
   <text x="25" y="40" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="18" font-weight="600" fill="#70a5fd">Most Used Languages</text>
-  <clipPath id="bar"><rect x="25" y="55" width="445" height="8" rx="4"/></clipPath>
-  <g clip-path="url(#bar)">
-    <rect x="25" y="55" width="338" height="8" fill="#e34c26"/>
-    <rect x="363" y="55" width="80" height="8" fill="#f1e05a"/>
-    <rect x="443" y="55" width="27" height="8" fill="#A97BFF"/>
-  </g>
-  <circle cx="30" cy="92" r="5" fill="#e34c26"/>
-  <text x="42" y="97" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#38bdae">HTML 75.91%</text>
-  <circle cx="270" cy="92" r="5" fill="#f1e05a"/>
-  <text x="282" y="97" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#38bdae">JavaScript 17.97%</text>
-  <circle cx="30" cy="117" r="5" fill="#A97BFF"/>
-  <text x="42" y="122" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#38bdae">Kotlin 6.11%</text>
+  <circle cx="105" cy="108" r="58" fill="none" stroke="#e34c26" stroke-width="24" stroke-dasharray="274.6 364.4" transform="rotate(-90 105 108)"/>
+  <circle cx="105" cy="108" r="58" fill="none" stroke="#f1e05a" stroke-width="24" stroke-dasharray="63.5 364.4" transform="rotate(183.3 105 108)"/>
+  <circle cx="105" cy="108" r="58" fill="none" stroke="#A97BFF" stroke-width="24" stroke-dasharray="20.3 364.4" transform="rotate(248 105 108)"/>
+  <circle cx="210" cy="79" r="5" fill="#e34c26"/>
+  <text x="222" y="84" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#38bdae">HTML 75.91%</text>
+  <circle cx="210" cy="109" r="5" fill="#f1e05a"/>
+  <text x="222" y="114" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#38bdae">JavaScript 17.97%</text>
+  <circle cx="210" cy="139" r="5" fill="#A97BFF"/>
+  <text x="222" y="144" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#38bdae">Kotlin 6.11%</text>
 </svg>
